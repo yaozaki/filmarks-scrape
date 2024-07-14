@@ -11,3 +11,5 @@ Filmarksから特定のアカウントのレビュー取得する
     引数:
     {filmarks_username} : レビューを取得したいFilmarks（https://filmarks.com/）のユーザー名
 ```
+
+- 実行日の年に上映開始された作品のみを抽出する
